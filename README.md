@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @jocecito
-- 👀 I’m interested in WEB DEVELOPMENT 
-- 🌱 I’m currently learning PHP
+- ✔ HTML5, CSS3, SASS 
+- 👀 I’m interested in FULL STACK WEB DEVELOPMENT 
+- 🌱 I’m currently learning JavaScript-JQuery-AJAX-PHP-MySQL 
 - 📫 email: jocecito182@gmail.com
 - LinkedIn: https://www.linkedin.com/in/jose-antonio-a379b61b6/
