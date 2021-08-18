@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jocecito
-- ✔ HTML5, CSS3, SASS 
+- ✔ HTML5, CSS3, SASS, JavaScript-JQuery-AJAX, PHP, MySQL
 - 👀 I’m interested in FULL STACK WEB DEVELOPMENT 
-- 🌱 I’m currently learning JavaScript-JQuery-AJAX-PHP-MySQL 
+- 🌱 I’m currently learning React
 - 📫 email: jocecito182@gmail.com
 - LinkedIn: https://www.linkedin.com/in/jose-antonio-a379b61b6/
