@@ -3,4 +3,4 @@
 - 👀 I’m interested in WEB DEVELOPMENT 
 - 🌱 I’m currently learning Full Stack MERN Development 
 - 📫 email: jocecito182@gmail.com
-- LinkedIn: https://www.linkedin.com/in/jose-antonio-a379b61b6/
+- LinkedIn: https://www.linkedin.com/in/jose-antonio-centeno-a379b61b6/
