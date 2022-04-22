@@ -14,10 +14,10 @@ Skills: REACT / JS / HTML / CSS / SQL / Firebase / Tailwind / Bootstrap
 - ⚡ Fun fact: The better we get at getting better, the faster we will get better  
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jocecito)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jose-antonio-centeno-a379b61b6/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/citojose/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/josecentenodev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/josecentenodev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/josecentenodev/)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jocecito)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josecentenodev)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jocecito&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=josecentenodev&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/jocecito)  
+![Profile views](https://gpvc.arturio.dev/josecentenodev)  
