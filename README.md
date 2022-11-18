@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Jose Centeno
 #### I am a Web Developer
-![I am a Web Developer](https://media-exp1.licdn.com/dms/image/C4E16AQHUJM7odg3pvA/profile-displaybackgroundimage-shrink_350_1400/0/1642786463231?e=1654732800&v=beta&t=0AHz0DOhvARgOBhGKE1RqpW0F0c59fhHJkM2CBw0qJA)
 
 I'm a full stack dev who likes to keep himself busy by building stuff on the side 🌻
 
