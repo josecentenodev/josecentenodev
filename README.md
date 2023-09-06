@@ -18,4 +18,3 @@ Skills: NEXT.JS / REACT.JS / JavaScript / HTML5 / CSS3 / SQL / Firebase / MongoD
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=josecentenodev&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/josecentenodev)  
