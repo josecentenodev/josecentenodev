@@ -12,7 +12,7 @@ Skills: NEXT.JS / REACT.JS / JavaScript / HTML5 / CSS3 / SQL / Firebase / MongoD
 - 😄 Pronouns: he/him 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/josecentenodev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/josecentenodev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/citodesu/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/josecentenodev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/josecentenodev/)   
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josecentenodev)](https://github.com/anuraghazra/github-readme-stats)
 
