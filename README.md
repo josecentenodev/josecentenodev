@@ -1,20 +1,30 @@
-### Hi there 👋, my name is Jose Centeno
-#### I am a Web Developer
+# Hi there 👋, my name is Jose Centeno
+## About me?
+Hello! I'm Jose, a passionate full-stack developer with experience in challenging and collaborative projects. My journey began in 2020 when I took the reins of my education and delved into the fascinating world of development through self-learning.
+I am currently part of a dedicated team working on a large-scale project for managing IT services and incident tracking. We leverage technologies such as TypeScript, React, Django REST framework, SQL and Tailwind.css.
 
-I'm a Full stack dev who likes to keep himself busy by building stuff on the side 🌻
+## Challenges and Achievements
+I've faced exciting challenges, from token authentication renewal to the implementation of code internationalization. One notable aspect of my journey has been the creation and enhancement of interfaces using Material UI. I specialize in adapting the components of this library to suit the specific needs of the project, ensuring a seamless and visually appealing user experience. My approach is focused on problem-solving, always keeping SOLID principles as a guide for development.
 
-Skills: NEXT.JS / REACT.JS / JavaScript / HTML5 / CSS3 / SQL / Firebase / MongoDB / Tailwind 
+## Tech Stack
+### Frontend:
+- React.js
+- Next.js
+- Tailwind.css
+- Redux
+- Material UI
+### Backend:
+- Node.js
+- Express.js
+- PostgreSQL, SQL and MongoDB databases
 
-- 🔭 I’m currently working on the professional I want to be. 
-- 🌱 I’m currently learning everything I need to be successful in any walk of life. 
-- 💬 Ask me about availability: I am available to start whenever you need me to start, including tomorrow. 
-- 📫 How to reach me: jocecito182@gmail.com / 
-- 😄 Pronouns: he/him 
+## Continuous Learning
+I stay updated through online communities and connections with people who share relevant news and content. Collaboration and honest communication are essential to me, and I believe in sharing knowledge to strengthen the community.
 
+## Goals
+I aspire to be a reference in full-stack development, the go-to person for those seeking creative solutions. My long-term goal is to contribute to the evolution of the community, inspiring others to overcome labor market challenges and grow together. I plan to achieve this through the construction of standout projects and fostering the personal and professional growth of those around me.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/josecentenodev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/josecentenodev/)   
+## Contact
+https://www.linkedin.com/in/josecentenodev/ 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josecentenodev)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=josecentenodev&show_icons=true)  
-
+Thank you for visiting my profile! I'm excited about what the future holds on my journey as a full-stack developer.
