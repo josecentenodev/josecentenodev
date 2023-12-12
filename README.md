@@ -18,7 +18,9 @@ I've faced exciting challenges, from token authentication renewal to the impleme
 - Express.js
 - PostgreSQL, SQL and MongoDB databases
 <br/>
+
 ### Tech I'm familiar with
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=css,express,firebase,git,github,graphql,html,js,jest,materialui,mongodb,mysql,nextjs,postgres,postman,react,redux,tailwind,ts,vscode" />
