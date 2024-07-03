@@ -1,22 +1,24 @@
 # Hi there 👋, my name is Jose Centeno
 ## About me?
-Hello! I'm Jose, a passionate full-stack developer with experience in challenging and collaborative projects. My journey began in 2020 when I took the reins of my education and delved into the fascinating world of development through self-learning.
+Hello! I'm Jose, a passionate full-stack developer. My journey began in 2017 when I took the reins of my education and delved into the fascinating world of development through self-learning.
 I am currently part of a dedicated team working on a large-scale project for managing IT services and incident tracking. We leverage technologies such as TypeScript, React, Django REST framework, SQL and Tailwind.css.
 
 ## Challenges and Achievements
 I've faced exciting challenges, from token authentication renewal to the implementation of code internationalization. One notable aspect of my journey has been the creation and enhancement of interfaces using Material UI. I specialize in adapting the components of this library to suit the specific needs of the project, ensuring a seamless and visually appealing user experience. My approach is focused on problem-solving, always keeping SOLID principles as a guide for development.
 
 ## Main Stack
-### Frontend:
 - React.js
 - Next.js
 - Tailwind.css
 - Redux
-
-### Backend:
+- Zustand
+- Prisma
+- tRPC
 - Node.js
 - Express.js
 - PostgreSQL, SQL and MongoDB databases
+- Docker
+- Mantine UI, Shadcn, Material UI and more.
 <br/>
 
 ### Tech I'm familiar with
@@ -41,4 +43,3 @@ https://www.linkedin.com/in/josecentenodev/
 https://josecenteno-personal-website.vercel.app/
 
 Thank you for visiting my profile! 
-I'm excited about what the future holds on my journey as a full-stack developer.
