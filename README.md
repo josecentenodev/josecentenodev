@@ -1,14 +1,20 @@
 # Hi there 👋, my name is Jose Centeno
 ## About me?
 Hello! I'm Jose, a passionate full-stack developer. My journey began in 2017 when I took the reins of my education and delved into the fascinating world of development through self-learning.
-I am currently part of a dedicated team working on large-scale projects using the T3 stack technologies.
+I am currently part of a dedicated team working on large-scale projects using any kind of technologies.
+
+I'm really passionate about clean architecture and writing clean, maintainable code.
 
 ## Challenges and Achievements
-I've faced exciting challenges, from token authentication renewal to the implementation of code internationalization. One notable aspect of my journey has been the creation and enhancement of interfaces using Material UI. I specialize in adapting the components of this library to suit the specific needs of the project, ensuring a seamless and visually appealing user experience. My approach is focused on problem-solving, always keeping SOLID principles as a guide for development.
+I've faced exciting challenges. I am involved in all stages, from initial design to code execution, with a focus on creating scalable and high-quality projects. Another notable aspect of my journey has been the creation and enhancement of interfaces using Material UI. I specialize in refactor and adapting the components of libraries to suit the specific needs of the project, ensuring a seamless and visually appealing user experience. My approach is focused on problem-solving, always keeping SOLID principles as a guide for development.
 
 ## Main Stack
 - React.js
 - Next.js
+- Angular
+- Angular Material
+- RxJS
+- SCSS
 - Tailwind.css
 - Redux
 - Zustand
