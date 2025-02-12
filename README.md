@@ -31,7 +31,7 @@ I've faced exciting challenges. I am involved in all stages, from initial design
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,express,firebase,git,github,graphql,html,js,jest,materialui,mongodb,mysql,nextjs,postgres,postman,react,redux,tailwind,ts,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,github,graphql,html,js,css,sass,styledcomponents,angular,materialui,mongodb,mysql,nextjs,postgres,postman,react,redux,tailwind,ts,vscode,aws" />
   </a>
 </p>
 <br/>
